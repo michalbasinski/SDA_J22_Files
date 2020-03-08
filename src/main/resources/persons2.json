@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jarosław",
+    "lastName": "Kaczyński",
+    "party": "PiS"
+  },
+  {
+    "name": "Janusz",
+    "lastName": "Korwin-Mikke",
+    "party": "Konfederacja",
+    "address": {
+      "city": "Warszawa",
+      "postalCode": "11-111"
+    }
+  }
+]
